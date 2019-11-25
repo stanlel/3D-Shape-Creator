@@ -1,4 +1,4 @@
-Programming Assignment from a computer graphics class that is an extension of the 2D shape creator that now takes in input of an OBJ, makes it viewable, and allows transformations.
+Programming Assignment from a computer graphics class that is an extension of the 2D shape creator that now takes in input of an OBJ, makes it viewable, and allows transformations. (Needs to be reimplemented, a lot of bugs and needs to do proper matrix transformation instead of modification of verticies)
 
 
 
@@ -20,3 +20,5 @@ Run OBJ file...
 WASD - transformation keys
 
 (R) - Rotate OBJ
+(S) - Scale OBJ
+(T) - Transform OBJ
